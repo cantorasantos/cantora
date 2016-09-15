@@ -2,3 +2,66 @@
 	font-family: proximanova-regular;
 	src: url("/webfonts/proximanova-regular.ttf") format("truetype");
 }
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: white;
+	font-family: proximanova-regular, sans-serif;
+}
+
+.top {
+	display: block;
+	padding: 0;
+	background-color: black;
+	height: 900px;	
+}
+
+.social {
+	display: block;
+	padding: 0;
+	background-color: blue;
+	height: 70px;	
+}
+
+.join_us {
+	display: block;
+	padding: 0;
+	background-color: green;
+	height: 140px;	
+}
+
+.news {
+	display: block;
+	padding: 0;
+	background-color: white;
+	height: 280px;	
+}
+
+.videos {
+	display: block;
+	padding: 0;
+	background-color: black;
+	height: 840px;	
+}
+
+.gallery {
+	display: block;
+	padding: 0;
+	background-color: blue;
+	height: 420px;	
+}
+
+.bio {
+	display: block;
+	padding: 0;
+	background-color: pink;
+	height: 420px;
+}
+
+.footer {
+	display: block;
+	padding: 0;
+	background-color: gray;
+	height: 70px;
+}
